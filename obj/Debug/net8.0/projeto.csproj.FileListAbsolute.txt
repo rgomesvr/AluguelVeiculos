@@ -1,0 +1,14 @@
+C:\Users\RenanGomes\projeto\bin\Debug\net8.0\projeto.exe
+C:\Users\RenanGomes\projeto\bin\Debug\net8.0\projeto.deps.json
+C:\Users\RenanGomes\projeto\bin\Debug\net8.0\projeto.runtimeconfig.json
+C:\Users\RenanGomes\projeto\bin\Debug\net8.0\projeto.dll
+C:\Users\RenanGomes\projeto\bin\Debug\net8.0\projeto.pdb
+C:\Users\RenanGomes\projeto\obj\Debug\net8.0\projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RenanGomes\projeto\obj\Debug\net8.0\projeto.AssemblyInfoInputs.cache
+C:\Users\RenanGomes\projeto\obj\Debug\net8.0\projeto.AssemblyInfo.cs
+C:\Users\RenanGomes\projeto\obj\Debug\net8.0\projeto.csproj.CoreCompileInputs.cache
+C:\Users\RenanGomes\projeto\obj\Debug\net8.0\projeto.dll
+C:\Users\RenanGomes\projeto\obj\Debug\net8.0\refint\projeto.dll
+C:\Users\RenanGomes\projeto\obj\Debug\net8.0\projeto.pdb
+C:\Users\RenanGomes\projeto\obj\Debug\net8.0\projeto.genruntimeconfig.cache
+C:\Users\RenanGomes\projeto\obj\Debug\net8.0\ref\projeto.dll
